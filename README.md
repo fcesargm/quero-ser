@@ -38,7 +38,8 @@ vi.	Gládio<br>
 <br>
 Uma testemunha foi encontrada, mas ela só consegue responder se Lin fornecer uma teoria. Para cada teoria ele "chuta" um assassino, um local e uma arma. A testemunha então responde com um número. Se a teoria estiver correta (assassino, local e arma corretos), ela responde 0. Se a teoria está errada, um valor 1,2 ou 3 é retornado. 1 indica que o assassiona está incorreto; 2 indica que o local está incorreto; 3 indica que a arma está incorreta. Se mais de uma suposição está incorreta, ela retorna um valor arbitrário entre as que estão incorretos (isso é totalmente aleatório).<br>
 <br>
-[Link do desafio](https://dojopuzzles.com/problems/descubra-o-assassino/)<br>
+  
+[Link do desafio](https://dojopuzzles.com/problems/descubra-o-assassino/) <br>
 <br>
 
 
